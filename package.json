@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/Yocenly/yocenlog.git -b gh-pages"
+    "deploy": "gh-pages -d dist -r git@github.com:Yocenly/yocenlog.git -b gh-pages"
   },
   "dependencies": {
     "element-plus": "^2.3.8",
