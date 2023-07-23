@@ -1,0 +1,1 @@
+import{o as r,c as n,b as a,a as e,u as t,F as _,R as u}from"./index-4408d022.js";const m={__name:"side-bar",setup(s){return(c,o)=>null}},l={class:"team-project-container"},p=a("h1",null,"团队项目",-1),i={__name:"team-project",setup(s){return(c,o)=>(r(),n(_,null,[a("div",l,[e(t(m)),e(t(u))]),p],64))}},f=i;export{f as default};
