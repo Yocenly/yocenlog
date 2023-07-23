@@ -10,7 +10,7 @@ function toHome() {
 <template>
   <div class="main-container flex-row">
     <div class="logo flex-row" @click="toHome">
-      <img src="src/assets/logo.png" alt="">
+      <img src="../../../assets/logo.png" alt="">
       <span class="title">个人成果展示</span>
     </div>
     <div class="nav-bar flex-row">
